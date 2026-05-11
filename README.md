@@ -26,8 +26,7 @@ Includes classification, regression with datasets, outputs, and implementation n
 Each project folder contains:
 - Jupyter Notebook (.ipynb)
 - Dataset files
-- Model implementation
-- Output/results
+  
 
 ## Author
 Nayan Pawar
